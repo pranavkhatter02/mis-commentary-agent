@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Pranav Khatter** | Chartered Accountant | Finance & AI Enthusiast
 
 - LinkedIn: [linkedin.com/in/pranavkhatter](https://www.linkedin.com/in/pranavkhatter/)
-- Email: pranav.khatter@example.com
+- Email: pranavkhatter02@gmail.com
 
 ---
 
@@ -234,3 +234,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built for finance professionals who want AI augmentation, not replacement.*
+
+
